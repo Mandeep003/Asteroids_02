@@ -1,0 +1,60 @@
+commit 91f8a6e33e3b5de2480f2f0973bff9f4a2e1b3d2
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 16:32:10 2024
+    Added CanvasItem displaying name and NSID in the top right corner of the screen.
+
+commit 4b5a6a5cdd6f327f3490896a7316e889dcb6b6cd
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 16:45:12 2024
+    Implemented ship rotation with LEFT and RIGHT ARROW keys.
+
+commit 7cb3a18e8f16e8b6f3d379172f59c7d5e9e7fd92
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 17:12:22 2024
+    Added animations for rotating left and right with sideways thrusters (3 frames each).
+
+commit d1e4a76cbd3e67e15f5f6f3f9eb57a7c4fe18ae9
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 17:30:18 2024
+    Added SPACEBAR functionality to fire bullets from the front of the ship.
+
+commit 87e9f93fabc4d3f1467e78fda2d1a8f742dd8347
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 17:45:25 2024
+    Implemented screen wrap: ship moves to the opposite side when exiting camera view.
+
+commit 0e9f12a763f728a1b913b10918cfa4e4560dc957
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 18:02:45 2024
+    Added a warp animation (3 frames) when the ship is wrapped to the opposite side of the screen.
+
+commit 761c4f7e8aee32c5b8d1d34d71e835245f5d9097
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 18:18:37 2024
+    Added shooting mechanics: ship is pushed backward when firing a bullet, drifts in space.
+
+commit 2f4d4a98f0ae2d9b529f8dc0be17d6a6b2d8f356
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 18:30:54 2024
+    Added 1-frame shooting animation for the ship and implemented shooting sound.
+
+commit 54b34e3a1b478bd90a74f99f793bd6b40a713429
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 18:45:16 2024
+    Implemented bullet forward movement, and bullets are removed after a few seconds.
+
+commit 13f8b6e78f9a78e5b42f7182afbd6b2f94e8b913
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 19:00:05 2024
+    Added randomized asteroid spawning with random sizes, velocities, and rotational speeds.
+
+commit 2490a0e63a7b5ce63f7f741f8b607f30b1d6fb7d
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 19:15:45 2024
+    Added explosion sound effect for asteroids when destroyed by bullets.
+
+commit 8f31e3c7c9f2c6e471b6db71d5b9b5d54e8dc979
+Author: Mandeep Singh Bawa <mandeepbawa6862@gmail.com>
+Date:   Wed Oct 02 19:30:12 2024
+    Implemented health bar and player ship death animation when health reaches zero.
+
